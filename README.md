@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Madari</h1>
 
 ###
-
-<div align="center">
-  <img height="220" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<div>
+<p> Here are some of my skills</p>
 </div>
 
 ###
@@ -35,19 +34,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshmadari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=venkateshmadari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=venkateshmadari&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=9&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/venkateshmadari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###

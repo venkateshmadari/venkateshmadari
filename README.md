@@ -1,5 +1,6 @@
+<h1> Hi 👋! My name is Venkatesh Madari</h1>
 # 💫 About Me:
- Hi 👋! My name is Venkatesh Madari<br>🔭 I’m currently working as  a Frontend Developer<br><br>
+🔭 I’m currently working as  a Frontend Developer<br><br>
 
 
 ## 🌐 Socials:

@@ -1,8 +1,6 @@
 <h2> Hi 👋! My name is Venkatesh Madari</h2>
 <br>
 <p>🔭 I’m currently working as  a Frontend Developer</p>
-<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkateshmadari/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MadariVenk4216) 

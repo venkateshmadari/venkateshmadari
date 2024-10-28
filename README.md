@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">Let's connect :</p>
+<p align="left">Let's connect </p>
 
 ###
 

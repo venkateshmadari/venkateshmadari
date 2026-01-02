@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Venkatesh Madari.<br>A passionate Front-End Developer.</h2>
+<h2 align="center">Hi 👋! My name is Venkatesh Madari.<br>A passionate Full Stack Developer.</h2>
 
 ###
 

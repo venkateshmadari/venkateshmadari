@@ -72,20 +72,32 @@
 
 ###
 
-<h3 align="left">🌐 Let's Connect</h3>
+<h3 align="left">🌐 Let’s connect & create something amazing together! ✨</h3>
 
 <div align="left">
+
   <a href="https://www.linkedin.com/in/venkateshmadari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://x.com/MadariVenk4216" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
   </a>
+  <a href="https://venkateshmadari.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
 </div>
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Stats</h3>
+
+<div align="center">
+  <a href="https://github.com/venkateshmadari">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venkateshmadari&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venkateshmadari&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
 
 <div align="center">
   <img
